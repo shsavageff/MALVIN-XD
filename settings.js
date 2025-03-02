@@ -65,7 +65,7 @@ AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "false",
 AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*🎉👀 Status Seen by ✦ᴍᴀʟᴠɪɴ xᴅ v2🚀🔥✦*",
 // set the auto reply massage on status reply    
 
-MODE: process.env.MODE || "private",
+MODE: process.env.MODE || "public",
 // make bot public-private-inbox-group 
 
 ANTI_LINK: process.env.ANTI_LINK || "false",
